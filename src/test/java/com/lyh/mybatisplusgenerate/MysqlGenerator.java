@@ -7,6 +7,7 @@ import org.junit.Test;
 
 import java.util.Collections;
 
+// 文档地址： https://baomidou.com/pages/981406/
 public class MysqlGenerator {
 
     @Test
